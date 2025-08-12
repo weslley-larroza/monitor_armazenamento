@@ -35,7 +35,10 @@ flutter_background_service — execução em segundo plano
 http — comunicação com API
 
 📷 Interface
-<p align="center"> <img src="CAMINHO_DA_IMAGEM" width="350"> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbbfce38-f41f-4052-8036-05db638ebe82" width="350">
+</p>
+
 📡 Fluxo de funcionamento
 Ao abrir o app, o dispositivo gera (ou carrega) um ID único salvo localmente.
 
