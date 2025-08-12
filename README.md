@@ -53,17 +53,18 @@ bash
 Copiar
 Editar
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/monitor_armazenamento.git
+git clone https://github.com/weslley-larroza/monitor_armazenamento.git
 
 # Entrar na pasta
 cd monitor_armazenamento
 
 # Instalar dependências
+  
 flutter pub get
 
 # Rodar no dispositivo
 flutter run
 📌 Observações
-O endpoint da API está configurado no código (http://192.168.110.198:5000/api/storage), sendo necessário alterar para o seu servidor.
+O endpoint da API está configurado no código (http://"SEU IP":5000/api/storage), sendo necessário alterar para o seu servidor.
 
 O envio dos dados requer que o dispositivo esteja conectado à mesma rede ou tenha acesso ao servidor configurado.
