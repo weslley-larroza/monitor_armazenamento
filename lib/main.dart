@@ -58,7 +58,7 @@ Future<String> getDeviceId() async {
 Future<void> sendData(Map<String, dynamic> data) async {
   try {
     final response = await http.post(
-      Uri.parse('http://192.168.110.198:5000/api/storage'),
+      Uri.parse('http://"SEU IP":5000/api/storage'),
       headers: {'Content-Type': 'application/json'},
       body: jsonEncode(data),
     );
