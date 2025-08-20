@@ -3,6 +3,7 @@ Aplicativo Flutter para monitorar e enviar informações de armazenamento de dis
 Funciona em segundo plano e envia dados periodicamente, permitindo acompanhar o uso de armazenamento de diversos aparelhos na rede.
 
 🚀 Funcionalidades
+
 📊 Exibe informações detalhadas de armazenamento:
 
 Espaço total (MB)
